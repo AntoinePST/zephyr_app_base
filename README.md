@@ -1,3 +1,5 @@
+simple blink LED application
+
 ## src/main.c
 A source code file. Applications typically contain source files written in C, C++, or assembly language. The Zephyr convention is to place them in a subdirectory of `<app>` named `src`.
 
